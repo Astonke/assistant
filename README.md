@@ -2,7 +2,8 @@
 
 assistant is meant to be a customer service possible replacemnet by integration of ai,
 
-in project test traonsformers was used
+in project test transformers was used
+
 pip install transformers
 
 simple online bussinesses can use the code setup to setup a customer servce fast customized response by feeding both
